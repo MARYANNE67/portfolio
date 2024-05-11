@@ -180,6 +180,26 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Car Forces",
+    description: "Revolutionize your travel experience with Car Forces, an all-in-one platform for booking flights, hotels, and rental cars. Explore curated recommendations for top destinations and embark on unforgettable journeys with ease.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient"
+      },
+      {
+        name: "reactjs",
+        color: "green-text-gradient"
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carForces,
+    source_code_link: "https://github.com/MARYANNE67/carForces"
+  },
+  {
     name: "Chromashift",
     description:
       "This project combines the power of Next.js for server-rendered React applications with Sass for styling and AI-powered photo transformation capabilities.",
@@ -229,26 +249,7 @@ const projects = [
     image: purplestore,
     source_code_link: "https://github.com/MARYANNE67/ecommerce_store",
   },
-  {
-    name: "Car Forces",
-    description: "Revolutionize your travel experience with Car Forces, an all-in-one platform for booking flights, hotels, and rental cars. Explore curated recommendations for top destinations and embark on unforgettable journeys with ease.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient"
-      },
-      {
-        name: "reactjs",
-        color: "green-text-gradient"
-      },
-      {
-        name: "tailwindcss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carForces,
-    source_code_link: "https://github.com/MARYANNE67/carForces"
-  }  
+
 ];
 
 export { services, technologies, experiences, testimonials, projects };
