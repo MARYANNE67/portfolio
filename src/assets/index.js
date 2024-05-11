@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import chromahift from "./chromashift.png";
-import purplestore from "./purplestore.png";
+import purplestore from "./purpleStore.png";
 import carForces from "./carForces.jpeg";
 
 export {
