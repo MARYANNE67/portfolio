@@ -116,9 +116,7 @@ const experiences = [
     company_name: "WebTactics",
     date: "Jan 2024 - Present",
     points: [
-      "Developed AI assistant, transforming basic job postings into captivating narratives. This initiative revolutionized the recruitment process by enhancing engagement and attracting top-tier talent. Utilized GPT and Python.",
-      "Designed and implemented a dynamic user interface using cutting-edge technologies such as NEXTJS, React, Typescript, and MongoDB, enabling seamless interaction between administrators, customers, and the AI assistant.",
-      "Co-piloted the deployment of the AI assistant on Azure, ensuring scalability, reliability, and optimal performance to meet the evolving needs of the recruitment industry."
+      "Developed AI assistant, transforming basic job postings into captivating narratives. This initiative revolutionized the recruitment process by enhancing engagement and attracting top-tier talent.",
     ]
   },
   {
@@ -126,8 +124,7 @@ const experiences = [
     company_name: "Seneca Applied Research, Seneca Polytechnic & Linksport",
     date: "Oct 2023 - Jan 2024",
     points: [
-      "Led development of a sport action recognition model using TensorFlow, NVIDIA TAO, achieving a significant 40% increase in classification accuracy and a streamlined 25% reduction in processing time.",
-      "Collaborated with cross-functional teams to create a front-end UI with React, enabling athletes to receive personalized feedback on their performances in real-time."
+      "Assisted in the development of a sport action recognition model",
     ]
   },
   {
